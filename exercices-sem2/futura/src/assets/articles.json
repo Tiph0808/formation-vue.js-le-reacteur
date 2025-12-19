@@ -1,0 +1,109 @@
+{
+  "frontPage": {
+    "id": 123,
+    "title": "La fin de l'enigme pour les « îles magiques » de Titan, la lune de Saturne ?",
+    "teaser": "En 2014, les sondages radars de la sonde Cassini relevaient des structures transitoires et mysterieuses a la surface des mers et lacs d'hydrocarbure de Titan, la plus grosse lune de Saturne, et dans le systeme solaire. Une equipe de paléontologues pensent avoir la solution de l'enigme qui serait comparable au velage sur Terre",
+    "image": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/imagescassini20130108pia16634-640.jpg",
+    "category": "sciences",
+    "subCategory": "actualités"
+  },
+
+  "articlesList": [
+    {
+      "id": 1,
+      "title": "La fin de l’énigme pour les «îles magiques» de Titan, la lune de Saturne ?",
+      "image": "/img/lunes.jpg",
+      "date": "15/10/2023",
+      "category": "exploration",
+      "subCategory": "lunes"
+    },
+    {
+      "id": 2,
+      "title": "La NASA détecte un mystérieux signal radio venu de Vénus",
+      "image": "img/venus.jpg",
+      "date": "22/09/2023",
+      "category": "astronomie",
+      "subCategory": "planètes"
+    },
+    {
+      "id": 3,
+      "title": "Les dernières découvertes de Perseverance sur Mars : des traces de vie ?",
+      "image": "/img/marsjpg.jpg",
+      "date": "05/11/2023",
+      "category": "exploration",
+      "subCategory": "mars"
+    },
+    {
+      "id": 4,
+      "title": "Europe, lune de Jupiter : un océan caché sous la glace ?",
+      "image": "/img/europe.jpg",
+      "date": "10/08/2023",
+      "category": "astronomie",
+      "subCategory": "lunes"
+    },
+    {
+      "id": 5,
+      "title": "Le télescope James Webb révèle des galaxies inconnues",
+      "image": "/img/jameswebb.jpg",
+      "date": "12/07/2023",
+      "category": "technologie",
+      "subCategory": "télescopes"
+    },
+    {
+      "id": 6,
+      "title": "Les missions Artemis : retour sur la Lune en 2025 ?",
+      "image": "img/artemis.jpg",
+      "date": "20/11/2023",
+      "category": "exploration",
+      "subCategory": "lunes"
+    },
+    {
+      "id": 7,
+      "title": "Les astéroïdes : une menace pour la Terre ?",
+      "image": "img/asteroides.jpg",
+      "date": "18/06/2023",
+      "category": "astronomie",
+      "subCategory": "astéroïdes"
+    },
+    {
+      "id": 8,
+      "title": "La vie sur Vénus : une hypothèse relancée",
+      "image": "img/venus-ground.jpg",
+      "date": "30/05/2023",
+      "category": "astronomie",
+      "subCategory": "vie extraterrestre"
+    },
+    {
+      "id": 9,
+      "title": "Les lacs de méthane de Titan, lune de Saturne",
+      "image": "img/lacs-methane.jpg",
+      "date": "05/09/2023",
+      "category": "exploration",
+      "subCategory": "lunes"
+    },
+    {
+      "id": 10,
+      "title": "Les ondes gravitationnelles : écouter l’Univers",
+      "image": "img/ondes.jpg",
+      "date": "30/10/2023",
+      "category": "physique",
+      "subCategory": "ondes gravitationnelles"
+    },
+    {
+      "id": 11,
+      "title": "Les voyages interstellaires : un rêve accessible ?",
+      "image": "img/voyage-spatial.avif",
+      "date": "01/12/2023",
+      "category": "technologie",
+      "subCategory": "voyages interstellaires"
+    },
+    {
+      "id": 12,
+      "title": "La Station Spatiale Internationale : 25 ans de science en orbite",
+      "image": "img/station.jpg",
+      "date": "10/11/2023",
+      "category": "exploration",
+      "subCategory": "station spatiale"
+    }
+  ]
+}
