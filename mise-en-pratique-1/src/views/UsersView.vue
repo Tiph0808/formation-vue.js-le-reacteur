@@ -19,24 +19,24 @@ onMounted(async () => {
   <main>
     <p v-if="usersList.length === 0">Loading...</p>
 
-    <RouterLink
-      :to="{
-        name: 'user',
-        params: { id: user.id },
-      }"
-      v-for="user in usersList"
-      :key="user.id"
-    >
-      <p>- {{ user.username }}</p>
-    </RouterLink>
+    <div v-else>
+      <h1>UsersView Component</h1>
+
+      <RouterLink
+        :to="{
+          name: 'user',
+          params: { id: user.id },
+        }"
+        v-for="user in usersList"
+        :key="user.id"
+      >
+        <p>- {{ user.username }}</p>
+      </RouterLink>
+    </div>
   </main>
 </template>
 
 <style scoped>
-main {
-  padding: 10px 30px;
-}
-
 p {
   margin-bottom: 10px;
 }
