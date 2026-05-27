@@ -1,0 +1,44 @@
+@import './base.css';
+
+/* On retrouve tjs les meme couleurs donc on crée des variables ici , on stocke aussi les hauteurs du header/footer: */
+
+:root {
+  --yellow: #f6ab09;
+  --header-height: 100px;
+  --footer-height: 60px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+  background-color: #fedd95;
+  width: 90%;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 28px;
+  margin-bottom: 30px;
+}
+
+.author {
+  align-self: flex-end;
+  margin-top: 10px;
+  font-style: italic;
+}
+
+.rates {
+  align-self: flex-start;
+  margin-top: 10px;
+}
+
+svg {
+  margin-right: 10px;
+}

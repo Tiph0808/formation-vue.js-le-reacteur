@@ -1,0 +1,39 @@
+/* RMQ : la class content-card a ete attribuée aux sections de mes compsants  */
+
+.content-card {
+  /* border: 2px solid plum; */
+  background-color: #fedd95;
+  max-height: 400px;
+  max-width: 750px;
+  padding: 25px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.content-card h2 {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.author {
+  /* border: 1px solid blue; */
+  display: flex;
+  justify-content: flex-end;
+}
+
+.author p {
+  line-height: 30px;
+  font-style: italic;
+}
+
+.rates {
+  /* border: solid 2px red; */
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}

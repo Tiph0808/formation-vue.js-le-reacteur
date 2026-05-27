@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "category": "article",
+    "title": "Tenetur",
+    "content": "1-Lorem ipsum dolor sit amet consectetur, adipisicing elit. In corporis voluptatem ipsa ab nesciunt et totam quod consequatur, aspernatur suscipit? \nTempora atque sunt sed enim iusto impedit repellendus, quidem animi! Corrupti quisquam iste in ducimus, optio impedit voluptatum dignissimos labore, eum numquam excepturi quidem. Soluta ratione explicabo fugit neque optio, labore ipsam itaque sunt rerum tempora pariatur facilis sit commodi. \nTempore a libero quis, nihil non cumque earum expedita. Eligendi quod nihil cupiditate provident ducimus incidunt ullam sunt unde aperiam vero, distinctio non illo accusantium hic ut nisi. Id, blanditiis? Doloremque reprehenderit reiciendis ex expedita ullam, tenetur deleniti, totam explicabo et eius consequuntur officia ad maiores iste, voluptate quam. Voluptates officia itaque autem nostrum non eos iusto vel rerum qui",
+    "rates": [3, 4, 5, 5, 2, 5],
+    "publishDate": "06/07/2023"
+  },
+  {
+    "id": 2,
+    "category": "livre",
+    "title": "Pariatur facilis",
+    "synopsis": "2-Lorem ipsum dolor sit amet consectetur, adipisicing elit. In corporis voluptatem ipsa ab nesciunt et totam quod consequatur, aspernatur suscipit? Tempora atque sunt sed enim iusto impedit repellendus, quidem animi! \nCorrupti quisquam iste in ducimus, optio impedit voluptatum dignissimos labore, eum numquam excepturi quidem. Soluta ratione explicabo fugit neque optio, labore ipsam itaque sunt rerum tempora pariatur facilis sit commodi.Tempore a libero quis, nihil non cumque earum expedita. Eligendi quod nihil cupiditate provident ducimus incidunt ullam sunt unde aperiam vero, distinctio non illo accusantium hic ut nisi. \nId, blanditiis? Doloremque reprehenderit reiciendis ex expedita ullam, tenetur deleniti, totam explicabo et eius consequuntur officia ad maiores iste, voluptate quam. Voluptates officia itaque autem nostrum non eos iusto vel rerum qui",
+    "author": "Eligendi",
+    "editionDate": "17/11/2016",
+    "numberOfPage": 604,
+    "rates": []
+  },
+  {
+    "id": 3,
+    "category": "article",
+    "title": "Soluta ratione",
+    "content": "3-Lorem ipsum dolor sit amet consectetur, adipisicing elit. In corporis voluptatem ipsa ab nesciunt et totam quod consequatur, aspernatur suscipit? Tempora atque sunt sed enim iusto impedit repellendus, quidem animi! \nCorrupti quisquam iste in ducimus, optio impedit voluptatum dignissimos labore, eum numquam excepturi quidem. Soluta ratione explicabo fugit neque optio, labore ipsam itaque sunt rerum tempora pariatur facilis sit commodi.Tempore a libero quis, nihil non cumque earum expedita. Eligendi quod nihil cupiditate provident ducimus incidunt ullam sunt unde aperiam vero, distinctio non illo accusantium hic ut nisi. Id, blanditiis? \nDoloremque reprehenderit reiciendis ex expedita ullam, tenetur deleniti, totam explicabo et eius consequuntur officia ad maiores iste, voluptate quam. Voluptates officia itaque autem nostrum non eos iusto vel rerum qui",
+    "author": {
+      "name": "Toto",
+      "otherBooks": ["Ducimus", "utem nostrum"]
+    },
+    "rates": [3, 4, 4, 2, 3, 2],
+    "publishDate": "10/03/2000"
+  },
+  {
+    "id": 4,
+    "category": "livre",
+    "title": "Amet consectetur",
+    "synopsis": "4-Lorem ipsum dolor sit amet consectetur, adipisicing elit. In corporis voluptatem ipsa ab nesciunt et totam quod consequatur, aspernatur suscipit? Tempora atque sunt sed enim iusto impedit repellendus, quidem animi! Corrupti quisquam iste in ducimus, optio impedit voluptatum dignissimos labore, eum numquam excepturi quidem. Soluta ratione explicabo fugit neque optio, labore ipsam itaque sunt rerum tempora pariatur facilis sit commodi.\nTempore a libero quis, nihil non cumque earum expedita. Eligendi quod nihil cupiditate provident ducimus incidunt ullam sunt unde aperiam vero, distinctio non illo accusantium hic ut nisi. Id, blanditiis? Doloremque reprehenderit reiciendis ex expedita ullam, tenetur deleniti, totam explicabo et eius consequuntur officia ad maiores iste, voluptate quam. Voluptates officia itaque autem nostrum non eos iusto vel rerum qui",
+    "author": "Itaque",
+    "editionDate": "31/01/2009",
+    "numberOfPage": 100,
+    "rates": [1, 5]
+  }
+]

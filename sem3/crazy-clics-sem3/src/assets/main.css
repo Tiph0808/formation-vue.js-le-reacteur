@@ -1,0 +1,18 @@
+@import './base.css';
+
+button {
+  cursor: pointer;
+}
+
+/* style my way*/
+
+/* body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  font-weight: bold;
+  border-radius: 3px;
+} */
