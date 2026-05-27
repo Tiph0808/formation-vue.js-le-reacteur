@@ -1,0 +1,11 @@
+@import './base.css';
+
+h1 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+main {
+  padding: 10px 30px;
+}
