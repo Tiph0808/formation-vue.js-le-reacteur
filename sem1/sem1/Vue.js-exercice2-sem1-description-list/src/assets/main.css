@@ -1,0 +1,30 @@
+@import './base.css';
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  margin-bottom: 40px;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-size: 22px;
+}
+
+/* on stylise le h1 qui est trop grand (et donc coupé) en dessous de cette taille d'ecran*/
+@media (max-width: 500px) {
+  h1 {
+    font-size: 40px;
+  }
+}
